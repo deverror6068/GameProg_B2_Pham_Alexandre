@@ -1,4 +1,4 @@
-#  SUPER MARIO SKYKINGDOM
+#  SUPER MARIO SKY-KINGDOM
 
 ## Comment jouer 
 
