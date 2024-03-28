@@ -4,7 +4,7 @@
 
 ## Comment jouer 
 
-utilisez</br>
+utilisez les commandes</br>
 <img   height = "300px" width="300px" src= https://github.com/deverror6068/GameProg_B2_Pham_Alexandre/blob/main/git_icons/keys.png>
 pour vous déplacer
 
