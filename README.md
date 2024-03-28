@@ -1,6 +1,8 @@
 
 <img   height = "300px" width="600px" src="https://github.com/deverror6068/GameProg_B2_Pham_Alexandre/blob/main/git_icons/game_logo.png">
 
+Super Mario SkyKingdom est jeu de type platerformer fait avec Unity
+
 
 
 ## Comment jouer 
@@ -14,3 +16,5 @@ Et le clic gauche de la souris pour tirer les boules de feu
 
 
 ## Installation
+
+Dézippez le dossier compressé puis lancez le fichier exécutable  .exe
