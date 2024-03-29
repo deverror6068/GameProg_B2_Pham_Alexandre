@@ -21,7 +21,7 @@ Dézippez le dossier compressé  obtenu lors du téléchargement  puis dézippez
 
 ## Configuration minimale 
 
-La configuration matérielle minimale suivante est nécessaire pour pouvoir jouer au jeu dans de bonne conditions 
+La configuration matérielle minimale suivante est nécessaire pour pouvoir jouer au jeu dans de bonne conditions :
 
 <table>
 
