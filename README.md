@@ -24,9 +24,27 @@ Dézippez le dossier compressé  obtenu lors du téléchargement  puis dézippez
 La configuration matérielle minimale suivante est nécessaire pour pouvoir jouer au jeu dans de bonne conditions 
 
 <table>
+
+  <tr>
+    <th scope="col"> Processeur </th>
+      <td>Processeur Quad Core  2Ghz </td>
+  </tr>
   <tr>
       <th scope="col">Ram</th>
       <td> 2GO</td>
      
   </tr>
+  <tr>
+     <th scope="col">Vram</th>
+    <td> 128Mo</td>
+  </tr>
+  <tr>
+     <th scope="col">Carte Graphique</th>
+    <td> Compatible DirectX ® 11</td>
+  </tr>
+    <tr>
+     <th scope="col">Système d'exploitation </th>
+    <td> Window 10</td>
+  </tr>
+  
 </table>
