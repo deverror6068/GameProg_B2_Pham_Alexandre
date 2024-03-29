@@ -10,6 +10,11 @@ Super Mario SkyKingdom est jeu de type platerformer fait avec Unity
 Utilisez les commandes suivantes  pour vous déplacer : </br>
 <img   height = "300px" width="300px" src= https://github.com/deverror6068/GameProg_B2_Pham_Alexandre/blob/main/git_icons/keys.png>
 
+
+</br>
+Utilisez la barre espace pour sauter :
+<img   height = "300px" width="300px" src="https://github.com/deverror6068/GameProg_B2_Pham_Alexandre/blob/main/git_icons/space.png">
+
 </br>
 Et le clic gauche de la souris pour tirer les boules de feu 
 <img   height = "300px" width="300px" src=https://github.com/deverror6068/GameProg_B2_Pham_Alexandre/blob/main/git_icons/left%20clic.png>
@@ -48,3 +53,9 @@ La configuration matérielle minimale suivante est nécessaire pour pouvoir joue
   </tr>
   
 </table>
+
+# Problèmes d'installation 
+
+Si vous lancez l'executable et celui-ci semble ne pas se lancer c'est probablement votre antivirus qui bloque l'exécution du jeu, vous devez autoriser l'execution du programme pour pouvoir lancer le jeu le cas échéant.
+
+
