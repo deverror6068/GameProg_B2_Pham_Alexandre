@@ -11,9 +11,7 @@ Utilisez les commandes suivantes  pour vous déplacer : </br>
 <img   height = "300px" width="300px" src= https://github.com/deverror6068/GameProg_B2_Pham_Alexandre/blob/main/git_icons/keys.png>
 
 
-</br>
-Utilisez la barre espace pour sauter :
-<img   height = "300px" width="300px" src="https://github.com/deverror6068/GameProg_B2_Pham_Alexandre/blob/main/git_icons/space.png">
+
 
 </br>
 Et le clic gauche de la souris pour tirer les boules de feu 
