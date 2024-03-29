@@ -20,7 +20,7 @@ Et le clic gauche de la souris pour tirer les boules de feu
 
 ## Installation
 
-Dézippez le dossier compressé  obtenu lors du téléchargement  puis ouvrez le fichier  ``gameprog-build`` puis lancez le fichier exécutable ``Super-Mario-SkyKingdom.exe`` 
+Dézippez le dossier compressé  obtenu lors du téléchargement ensuite  dézippez le fichier  ``pham_alexandre_gameprog``  puis ouvrez le fichier  ``gameprog-build`` puis lancez le fichier exécutable ``Super-Mario-SkyKingdom.exe`` 
 
 ## Configuration minimale 
 
