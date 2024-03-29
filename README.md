@@ -26,6 +26,7 @@ La configuration matérielle minimale suivante est nécessaire pour pouvoir joue
 <table>
   <tr>
       <th scope="col">Ram</th>
+    <td> 2GO</td>
       <th scope="col">Vram</th>
   </tr>
 </table>
