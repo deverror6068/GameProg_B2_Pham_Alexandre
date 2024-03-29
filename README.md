@@ -18,3 +18,33 @@ Et le clic gauche de la souris pour tirer les boules de feu
 ## Installation
 
 Dézippez le dossier compressé  obtenu lors du téléchargement  puis dézippez le fichier  ``pham_alexandre_gameprog`` puis lancez le fichier exécutable ``Super-Mario-SkyKingdom.exe`` 
+
+## Configuration minimale 
+
+La configuration matérielle minimale suivante est nécessaire pour pouvoir jouer au jeu dans de bonne conditions :
+
+<table>
+
+  <tr>
+    <th scope="col"> Processeur </th>
+      <td>Processeur Quad Core  2Ghz </td>
+  </tr>
+  <tr>
+      <th scope="col">Ram</th>
+      <td> 2GO</td>
+     
+  </tr>
+  <tr>
+     <th scope="col">Vram</th>
+    <td> 128Mo</td>
+  </tr>
+  <tr>
+     <th scope="col">Carte Graphique</th>
+    <td> Compatible DirectX ® 11</td>
+  </tr>
+    <tr>
+     <th scope="col">Système d'exploitation </th>
+    <td> Window 10</td>
+  </tr>
+  
+</table>
